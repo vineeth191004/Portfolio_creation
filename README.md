@@ -62,5 +62,3 @@ src/
 
 ## Deployment
 https://vineethgajjelaportfolio.netlify.app/
-
-Feel free to customize the placeholders and add any additional details as needed!
